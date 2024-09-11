@@ -1,0 +1,11 @@
+email,firstName,lastName,githubUser,gitlabUser,birthDate,password,studentNumber,studentType,studentStatus
+alice.wonderland@example.com,Alice,Wonderland,alice_in_wonderland,alice_wonderland,1865-07-04,1230,1001,FI,New
+peter.pan@example.com,Peter,Pan,peter_pan_neverland,pan_peter,1902-12-27,1230,1002,FI,New
+dorothy.gale@example.com,Dorothy,Gale,dorothy_gale_oz,gale_dorothy,1900-05-17,1230,1003,FI,New
+sherlock.holmes@example.com,Sherlock,Holmes,sherlock_holmes_detective,holmes_sherlock,1887-03-15,1230,1004,FI,New
+huck.finn@example.com,Huckleberry,Finn,huck_finn_mississippi,finn_huck,1884-12-10,1230,1005,FI,New
+tom.sawyer@example.com,Tom,Sawyer,tom_sawyer_adventures,sawyer_tom,1876-06-09,1230,1006,FI,New
+jane.eyre@example.com,Jane,Eyre,jane_eyre_thornfield,eyre_jane,1847-10-16,1230,1007,FI,New
+oliver.twist@example.com,Oliver,Twist,oliver_twist_orphan,twist_oliver,1837-02-07,1230,1008,FI,New
+winnie.pooh@example.com,Winnie,Pooh,winnie_the_pooh,pooh_winnie,1926-10-14,1230,1009,FI,New
+harry.potter@example.com,Harry,Potter,harry_potter_hogwarts,potter_harry,1997-06-26,1230,1010,FI,New

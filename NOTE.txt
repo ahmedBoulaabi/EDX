@@ -1,0 +1,6 @@
+-An extremely weird bug that i'm not able to fix due to time constraints and already taken me a lot of time in investigating the issue and trying to resolve it, the bug is on the timeline/schedule when editing the placement of the seances, the seance.day, seance.month and seance.year are updated perfectly, BUT, in the seance.start and seance.end sometimes gets erroneously updated to the current date! the hours get updated correctly but the date changes to the current date which is almost unexplainable... all i can think of is this is some kind of error with how Jotai is handling the Date object when updating the value store.
+-Thankfully the date in the seance.start is not used in the UI anywhere and everything works well, we only care about the hour of the seance.start and seance.end
+
+
+-A lot of the tables need to have delete on Cascade added to them
+-A lot of tables need to have notNull added to their schema

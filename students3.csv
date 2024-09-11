@@ -1,0 +1,4 @@
+email,firstName,lastName,githubUser,gitlabUser,birthDate,password,studentNumber,studentType,studentStatus
+emily.clark@example.com,Emily,Clark,emily_clark_dev,eclark_gitlab,1990-01-01,1230,1021,FI,New
+david.miller@example.com,David,Miller,david_miller_code,dmiller_gitlab,1991-02-02,1230,1022,FI,New
+michael.johnson@example.com,Michael,Johnson,mjohnson_dev,johnson_mike,1992-03-03,1230,1023,FI,New

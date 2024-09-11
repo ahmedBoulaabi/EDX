@@ -1,0 +1,11 @@
+email,firstName,lastName,githubUser,gitlabUser,birthDate,password,studentNumber,studentType,studentStatus
+frodo.baggins@example.com,Frodo,Baggins,frodo_baggins_shire,baggins_frodo,1954-07-29,1230,1011,FI,New
+aragorn.elessar@example.com,Aragorn,Elessar,aragorn_elessar_gondor,elessar_aragorn,1954-07-29,1230,1012,FI,New
+samwise.gamgee@example.com,Samwise,Gamgee,samwise_gamgee_shire,gamgee_samwise,1954-07-29,1230,1013,FI,New
+gandalf.grey@example.com,Gandalf,Grey,gandalf_grey_wizard,grey_gandalf,1954-07-29,1230,1014,FI,New
+legolas.greenleaf@example.com,Legolas,Greenleaf,legolas_greenleaf_mirkwood,greenleaf_legolas,1954-07-29,1230,1015,FI,New
+gimli.gloin@example.com,Gimli,Gloin,gimli_gloin_dwarf,gloin_gimli,1954-07-29,1230,1016,FI,New
+bilbo.baggins@example.com,Bilbo,Baggins,bilbo_baggins_shire,baggins_bilbo,1937-09-21,1230,1017,FI,New
+sauron.darklord@example.com,Sauron,Darklord,sauron_darklord_mordor,darklord_sauron,1954-07-29,1230,1018,FI,New
+galadriel.lorien@example.com,Galadriel,Lorien,galadriel_lorien_elf,lorien_galadriel,1954-07-29,1230,1019,FI,New
+saruman.white@example.com,Saruman,White,saruman_white_wizard,white_saruman,1954-07-29,1230,1020,FI,New
